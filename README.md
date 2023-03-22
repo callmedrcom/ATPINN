@@ -1,5 +1,3 @@
 # ATPINN
-
-Code will be added after pubilsed.
-
-we will upload ATPINN for heat conduct as an example.
+ATPINN fOR alternative two-stage PINN
+Currently under review
