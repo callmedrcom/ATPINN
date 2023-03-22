@@ -1,3 +1,3 @@
 # ATPINN
-ATPINN fOR alternative two-stage PINN
+ATPINN: alternative two-stage PINN
 Currently under review
